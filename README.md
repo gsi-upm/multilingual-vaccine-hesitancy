@@ -3,7 +3,7 @@ Repository of the paper "Towards a Multilingual System for Vaccine Hesitancy usi
 
 # Twitter-AntiVax Dataset
 
-The dataset can be found in the [`data`]("data") folder.
+The dataset can be found in the [`data`](data) folder.
 The IDs of the tweets have been published, along with the annotations used in the paper.
 
 # Publication
